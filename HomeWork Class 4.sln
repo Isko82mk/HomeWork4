@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homeWork4_task1", "homeWork4_task1\homeWork4_task1.csproj", "{16D0E8F8-9027-4C98-9EB9-00C2E1E9F3BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homeWork4_task1", "homeWork4_task1\homeWork4_task1.csproj", "{16D0E8F8-9027-4C98-9EB9-00C2E1E9F3BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homeWork4_task2", "ConsoleApp1\homeWork4_task2.csproj", "{51946CBC-66F1-4E83-8311-939DF592C70F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homeWork4_task2", "ConsoleApp1\homeWork4_task2.csproj", "{51946CBC-66F1-4E83-8311-939DF592C70F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homeWork4_task3", "ConsoleApp2\homeWork4_task3.csproj", "{B7B290AE-0DF7-4EAF-8633-BEFEE171CE44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homeWork4_task3", "ConsoleApp2\homeWork4_task3.csproj", "{B7B290AE-0DF7-4EAF-8633-BEFEE171CE44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
