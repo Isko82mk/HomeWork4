@@ -11,11 +11,11 @@ namespace homeWork4_task1
             //char[] hChars = hello.ToCharArray();
             //Console.WriteLine(hChars.Length);
             Console.WriteLine("Enter number beatwin 1 and 31");
-            int userImput = 0;
+            int userImput = Convert.ToInt32(Console.ReadLine());
 
             if (userImput <= 31)
             {
-                userImput = Convert.ToInt32(Console.ReadLine());
+              
 
                 string subString = hello.Substring(0, userImput);
                 Console.WriteLine(subString);
